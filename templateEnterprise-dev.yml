@@ -1,5 +1,5 @@
 config: 
-  profile: ebt2
+  profile: ebt3
   message: templateEnterprise(dev) 
  
 Globals: 
